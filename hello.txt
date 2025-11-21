@@ -1,3 +1,2 @@
-Hello git
-line a
+line a from feature branch
 line b
