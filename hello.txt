@@ -1,2 +1,3 @@
 line a from master branch
+line a from feature branch
 line b
