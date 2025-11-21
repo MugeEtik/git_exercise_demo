@@ -1,2 +1,1 @@
-# git_exercise_demo
-exercise
+# Git Exercise Demo
