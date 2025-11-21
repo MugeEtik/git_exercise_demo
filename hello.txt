@@ -1,3 +1,2 @@
-Hello git
-line a
+line a from master branch
 line b
